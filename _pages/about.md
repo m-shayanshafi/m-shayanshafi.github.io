@@ -15,3 +15,5 @@ My research interests lie in the area of privacy and security in distributed mul
 Previously, I completed my undergraduate degree from [Lahore University of Management Sciences](https://sbasse.lums.edu.pk/department/computer-science) where I worked on developing an energy-efficient routing protocol for IOT devices and a design pattern retrieval system for software developers.   
 
 Here's a link to my [resume](/files/resume.pdf).
+## News:
+  *27 Nov 2018*: My work on private and secure peer to peer machine learning using blockchains is now available on [arxiv](https://arxiv.org/abs/1811.09904)
